@@ -1,4 +1,4 @@
-#Instrucciones para la ejecución
+# Instrucciones para la ejecución
 
 1.  Descargar los archivos bd.bacpac y gest.jar.
 
