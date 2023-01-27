@@ -1,4 +1,10 @@
-# Instrucciones para la ejecución
+# Ejecución del programa
+
+## Requisitos
+    - Jdk versión 1.17.x
+    - DBMS Microsoft SQL Server
+   
+## Instrucciones
 
 1.  Descargar los archivos bd.bacpac y gest.jar.
 
