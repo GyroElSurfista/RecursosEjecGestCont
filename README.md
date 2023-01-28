@@ -77,7 +77,7 @@
 
         1. Establecer el campo "TCP Dynamic Ports" en blanco.
 
-        <div align = "center"><img src = "Images/DynamicPorts.PNG"></div>
+        <div align = "center"><img src = "Images/DynamicPorts.png"></div>
 
         2. Establecer el puerto TCP de cada IP con 1433 en la parte inferior de la ventana.
 
